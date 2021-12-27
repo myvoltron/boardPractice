@@ -1,5 +1,7 @@
 # boardTutorial
-node.js를 활용한 CRUD 게시판 예제입니다. 
+node.js를 활용한 CRUD 게시판입니다.
+
+참고한 사이트 : https://www.a-mean-blog.com/ko/blog/Node-JS-%EC%B2%AB%EA%B1%B8%EC%9D%8C/%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%A7%8C%EB%93%A4%EA%B8%B0
 
 사용한 패키지는 다음과 같습니다. 
 
@@ -63,4 +65,3 @@ app.use((err, req, res, next) => {
 6. error 처리를 해주어서 서버가 멈추지 않게 해주는 미들웨어 
 
 
-이 예제를 반복해서 간단한 CRUD는 눈감고 만들 수 있도록 노력해보자!
